@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Addition {
@@ -15,6 +16,7 @@ public class Addition {
         System.out.println("The sum of " + a + " and " + b + " is: " + sum);
         
         scanner.close();
+
     }
 }
 
