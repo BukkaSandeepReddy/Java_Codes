@@ -5,7 +5,7 @@ public class AddNNumbers {
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter how many numbers you want to add: ");
-        int num = scanner.nextInt();
+        int n = scanner.nextInt();
 
         int sum = 0;
         for (int i = 1; i <= n; i++) {
